@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   align-items: center;
   background-color: #9384d0;
-  padding: 1rem;
+  padding: .4rem;
   border-radius: 15px;
 }
 
@@ -31,9 +31,9 @@ button {
 }
 
 #image{
-  width: 45vw;
-  min-width: 300px;
-  max-width: 400px;
+  width: 90%;
+  min-width: 280px;
+  max-width: 380px;
   border-radius: 10px;
 }
 
@@ -42,8 +42,8 @@ button {
   justify-content: space-between;
   flex-direction: column;
   align-items: center;
-  margin: .5rem 0 .5rem 0;
-  font-size: 1.5rem;
+  margin: .4rem 0 .4rem 0;
+  font-size: 1.2rem;
 }
 
 #anterior, #proximo {
@@ -51,7 +51,7 @@ button {
 }
 
 #play-pause {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 #container-botoes {
@@ -61,5 +61,5 @@ button {
   background-color: #5f4da8;
   padding: .5rem;
   border-radius: 15px;
-  margin: 0 .5rem;
+  margin: .5rem;
 }
